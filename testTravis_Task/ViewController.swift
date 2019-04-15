@@ -3,7 +3,7 @@
 //  testTravis_Task
 //
 //  Created by Sowrirajan S on 15/04/19.
-//  Copyright © 2019 com.scd. All rights reserved.
+//  Copyright © 2019 com.testTravis_Task. All rights reserved.
 //
 
 import UIKit
